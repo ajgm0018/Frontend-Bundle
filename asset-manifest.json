@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/app/static/css/main.b4cc109b.css",
-    "main.js": "/app/static/js/main.b0b92b21.js",
+    "main.css": "/app/static/css/main.e6f6eb53.css",
+    "main.js": "/app/static/js/main.e5c6b54c.js",
     "service-worker.js": "/app/service-worker.js",
     "static/media/logo_v2.png": "/app/static/media/logo_v2.0d5ca5c6334c743c1e8f.png",
     "static/media/red-social.png": "/app/static/media/red-social.c0cf3466ffa3702a048c.png",
@@ -16,11 +16,11 @@
     "static/media/2.png": "/app/static/media/2.abdadd25c016b7238d08.png",
     "static/media/twitter.png": "/app/static/media/twitter.8e65601e69067aadfe55.png",
     "index.html": "/app/index.html",
-    "main.b4cc109b.css.map": "/app/static/css/main.b4cc109b.css.map",
-    "main.b0b92b21.js.map": "/app/static/js/main.b0b92b21.js.map"
+    "main.e6f6eb53.css.map": "/app/static/css/main.e6f6eb53.css.map",
+    "main.e5c6b54c.js.map": "/app/static/js/main.e5c6b54c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4cc109b.css",
-    "static/js/main.b0b92b21.js"
+    "static/css/main.e6f6eb53.css",
+    "static/js/main.e5c6b54c.js"
   ]
 }
